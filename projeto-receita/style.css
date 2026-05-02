@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 :root{
     font-family: "Alice", serif;
     line-height: 150%;
@@ -6,7 +11,7 @@
 }
 
 body{
-    background-image: url(Assets/fundo-cupcake.jpg);
+    background-image: url(Assets/bg.jpg);
     background-size: cover;
 }
 
@@ -23,6 +28,10 @@ img{
     margin: 48px auto;
 }
 
+main{
+    padding: 24px;
+}
+
 h1{
     line-height: 140%;
     font-size: 40px;
@@ -34,7 +43,19 @@ h2{
 
 h1 , h2{
     color: #291B1A;
+    margin-bottom: 4px;
 }
 
+ul{
+    padding-left: 24px;
+}
 
+footer{
+    color: #F0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+}
 
+footer img {
+    vertical-align: middle;
+}
