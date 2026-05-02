@@ -17,3 +17,24 @@ Praticar a construção de páginas estruturadas e semânticas, criando uma base
 
 🚧 Status
 Em desenvolvimento (Dia 1 concluído)
+
+🎨 Dia 2 - Estilização com CSS
+No segundo dia, iniciamos a estilização da página:
+
+Aplicação de fonte personalizada ("Alice")
+Definição de cores e identidade visual
+Adição de imagem de fundo
+Criação de um container central estilizado (#page)
+Bordas arredondadas em elementos e imagens
+Ajustes de tipografia (títulos e textos)
+Correção de espaçamentos (remoção de margens na seção .info)
+
+🛠️ Tecnologias utilizadas
+HTML5
+CSS3
+
+📌 Objetivo
+Praticar a construção de páginas estruturadas e evoluir para estilização com CSS, criando interfaces mais organizadas e visualmente agradáveis.
+
+🚧 Status
+Em desenvolvimento (Dia 2 em andamento)
